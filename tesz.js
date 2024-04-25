@@ -15,7 +15,7 @@ export function masodfokuEgyenletMegoldasaTeszt() {
     { a: 1, b: 2, c: 1, X1: -1, X2: -1 },
     { a: 2, b: 1, c: 1, X1: "Nincs megoldás!", X2: "Nincs megoldás!" },
     { a: 2, b: 3, c: 2, X1: "Nincs megoldás!", X2: "Nincs megoldás!" },
-    { a: 1, b: 1, c: -1, X1: 0.5, X2: -2 },
+    { a: 1, b: 1, c: -1, X1: 0.6, X2: -1.6 },
     { a: 1, b: -1, c: 1, X1: "Nincs megoldás!", X2: "Nincs megoldás!" },
     { a: -1, b: 1, c: 1, X1: -0.6, X2: 1.6 },
   ];

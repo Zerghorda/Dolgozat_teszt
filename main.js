@@ -22,8 +22,8 @@ export function masodfokuEgyenletMegoldasa(a, b, c) {
     eredmeny.X2 = X2;
     return eredmeny;
   }
-  let x1 = Math.floor(-b + Math.sqrt(b * b - 4 * a * c)) / (2 * a);
-  let x2 = Math.floor(-b - Math.sqrt(b * b - 4 * a * c)) / (2 * a);
+  let x1 = (-b + Math.sqrt(b * b - 4 * a * c)) / (2 * a);
+  let x2 = (-b - Math.sqrt(b * b - 4 * a * c)) / (2 * a);
 
   X1 = x1;
   X2 = x2;
